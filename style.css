@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 550;
+    font-style: normal;
+    box-sizing: border-box;
+}
+body{
+    background-color: #363540;
+    color: #EE0E51;
+}
+.container{
+    width: 100%;
+    /* background-color: #E4DCEF; */
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+#btn1{
+    position: absolute;
+    height:60px;
+    width: 200px;
+    cursor: pointer;
+    outline: 0;
+    border: 2px solid #E4DCEF;
+    border-radius: 5px;
+    background-color: #EE0E51;  
+    color: #E4DCEF;  
+    font-size: larger;
+    font-weight: 500;
+    margin-top: 300px;
+    transform: scale(1);
+    transition: background-color 0.2s, color 0.2s,transform 0.2s, border 0.2s; 
+}   
+#btn1:hover{
+    background: #E4DCEF;
+    color: #EE0E51;
+    transform: scale(0.90);
+    border: 2px solid #EE0E51;
+    transition: background-color 0.2s, color 0.2s, transform 0.2s, border 0.2s;
+}
+#btn1:active{
+    transform: scale(0.8);
+    transition: transform 0.2s;
+}
+h2{
+    position: absolute;
+    margin-top: -15%;
+    font-size: 56px;
+}
+p{
+    position: absolute;
+    margin-top: -130px;
+    font-size: 18px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    color: #E4DCEF;
+}
+.main input{
+    width: 200px;
+    height: 80px;
+    border: 1px solid #313556;
+    border-radius: 5px;
+    outline: 0;
+    padding: 10px;
+    margin-top: 40px;
+    font-size: 24px;
+}
+#heh{
+    margin-top: 65px;
+    margin-left: -217px;
+    font-size: 25px;
+}
+#hehe{
+    margin-top: 65px;
+    margin-left: 450px;
+    font-size: 25px;
+}
+#btn2{
+    position: absolute;
+    height:60px;
+    width: 200px;
+    cursor: pointer;
+    outline: 0;
+    border: 2px solid #E4DCEF;
+    border-radius: 5px;
+    background-color: #EE0E51;  
+    color: #E4DCEF;  
+    font-size: larger;
+    font-weight: 500;
+    margin-top: -100px;
+    margin-left: -100px;
+    transform: scale(1);
+    transition: background-color 0.2s, color 0.2s,transform 0.2s, border 0.2s; 
+}   
+#btn2:hover{
+    background: #E4DCEF;
+    color: #EE0E51;
+    transform: scale(0.90);
+    border: 2px solid #EE0E51;
+    transition: background-color 0.2s, color 0.2s, transform 0.2s, border 0.2s;
+}
+#btn2:active{
+    transform: scale(0.8);
+    transition: transform 0.2s;
+}
+.rellinks{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+    color: #E4DCEF;
+}
+h3{
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 90%;
+    font-size: 24px;
+}
