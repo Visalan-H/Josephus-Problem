@@ -12,12 +12,12 @@ It goes like this: suppose there are n people standing in a circle and a certain
 Starting from the first person, every kth person is eliminated until only one person remains. 
 The challenge is to find out which seat that person is sitting in.
 
-## Wikipedia: [Click here!](https://en.wikipedia.org/wiki/Josephus_problem)
-## Numberphile Video: [Click here!](https://youtu.be/uCsD3ZGzMgE?si=ZE6rpEl8yDKQ0Ino)
+## Wikipedia: [Click here!](https://en.wikipedia.org/wiki/Josephus_problem){:target="_blank"}
+## Numberphile Video: [Click here!](https://youtu.be/uCsD3ZGzMgE?si=ZE6rpEl8yDKQ0Ino){:target="_blank"}
 
 ## How it Works
 
-Visit this link: [Click Here!](https://visalan-h.github.io/Josephus-Problem/) 
+Visit this link: [Click Here!](https://visalan-h.github.io/Josephus-Problem/){:target="_blank"}
 
 It's incredibly simple! Just enter the number of people in the circle, click "Find Out!",
 and our magical algorithm will determine the winning seat number for you. 
