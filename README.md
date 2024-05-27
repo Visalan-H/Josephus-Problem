@@ -12,8 +12,9 @@ It goes like this: suppose there are n people standing in a circle and a certain
 Starting from the first person, every kth person is eliminated until only one person remains. 
 The challenge is to find out which seat that person is sitting in.
 
-Wikipedia: [Click here!](https://en.wikipedia.org/wiki/Josephus_problem)
-Numberphile Video: [Click here!](https://youtu.be/uCsD3ZGzMgE?si=ZE6rpEl8yDKQ0Ino)
+## Wikipedia: [Click here!](https://en.wikipedia.org/wiki/Josephus_problem)
+
+## Numberphile Video: [Click here!](https://youtu.be/uCsD3ZGzMgE?si=ZE6rpEl8yDKQ0Ino)
 
 ## How it Works
 
