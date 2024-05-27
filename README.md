@@ -41,4 +41,3 @@ No need to rack your brains trying to solve it manually. We'll do the heavy lift
 **Disclaimer**: 
 While our Josephus Problem Solver is great at finding winning seat numbers,
 It's not equipped to handle existential crises caused by realizing just how circular life can be. 
----
