@@ -34,8 +34,9 @@ No need to rack your brains trying to solve it manually. We'll do the heavy lift
 1. **Initial Look**:
    ![image](https://github.com/Visalan-H/Josephus-Problem/assets/152077751/07139c9d-3dd7-4adf-b9b3-2a729bc89b7d)
 
+
 2. **After Entering Number of People**:
-   !![image](https://github.com/Visalan-H/Josephus-Problem/assets/152077751/56be5874-c6a7-4b60-a713-1182ef20b3b0)
+   ![image](https://github.com/Visalan-H/Josephus-Problem/assets/152077751/56be5874-c6a7-4b60-a713-1182ef20b3b0)
 
 ---
 **Disclaimer**: 
